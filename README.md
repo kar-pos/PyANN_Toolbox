@@ -7,7 +7,7 @@ Additional details about the models and author can be find after clicking "Help/
 ![App GUI3](Screenshot_GUI_Toolbox3.png?raw=true "PyANN Toolbox - About Window")
 
 ## Files description
-* [Release](https://github.com/kar-pos/PyANN_Toolbox/releases/tag/v1.0.0) version of App with full GUI (see screenshot above), recommended for most users.
+* [Release](https://github.com/kar-pos/PyANN_Toolbox/releases) version of App with full GUI (see screenshot above), recommended for most users.
 * Release.zip - it is a mirror of above attached release
 * Resources - this folder includes raw models (without GUI) of all ANNs used in the Toolbox. The models are optimized to run under C# language. Onnx releases can also be use in any compatible environment.
 
